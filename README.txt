@@ -1,7 +1,3 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
-
-
 /* TEAM */
   Ulises Rodríguez
   
