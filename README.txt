@@ -1,43 +1,22 @@
-/* TEAM */
-  Ulises Rodríguez
-  
-  Site 		: http://www.ulisesrodriguez.com
-  Twitter	: @isc_ulises
-  Facebook	: http://www.facebook.com/ISC.Ulises
-  gmail		: ing.ulisesrodriguez@gmail.com
-  skype		: systemonlinesoftware
-  Github	: https://github.com/ulisesrodriguez
+### Ulises Rodriguez.
+  Site   	: http://www.ulisesrodriguez.com<br>
+  Twitter	: @isc_ulises <br>
+  Facebook	: http://www.facebook.com/ISC.Ulises<br>
+  gmail		: ing.ulisesrodriguez@gmail.com<br>
+  skype		: systemonlinesoftware<br>
+  Github	: https://github.com/ulisesrodriguez<br>
   
   Location: Mundial
 
 
-/* SITE */
-  Standards: HTML, CSS
-  Components: jQuery
-  Software: Template Viajes con sentido
+#DescriptiÃ³n
+```
+Template
+HTML
+CSS
+jQuery 
+Code html and css for a site web
+```
+### Authors and Contributors
+<img src="http://www.ulisesrodriguez.com/images/Logo.png" width="50" height="60">
 
-
-
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
