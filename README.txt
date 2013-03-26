@@ -1,4 +1,4 @@
-### Ulises Rodriguez.
+  Ulises Rodriguez.
   Site   	: http://www.ulisesrodriguez.com<br>
   Twitter	: @isc_ulises <br>
   Facebook	: http://www.facebook.com/ISC.Ulises<br>
@@ -9,14 +9,13 @@
   Location: Mundial
 
 
-#Descriptión
-```
-Template
-HTML
-CSS
-jQuery 
-Code html and css for a site web
-```
-### Authors and Contributors
-<img src="http://www.ulisesrodriguez.com/images/Logo.png" width="50" height="60">
+  #Descriptión
+  ```
+  Template
+  HTML
+  CSS
+  jQuery 
+  Code html and css for a site web
+  ```
+
 
